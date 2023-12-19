@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #04413E;
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+
+#logo {
+    display: flex;
+    justify-content: center;
+    padding: 1em 0;
+    background-color: #04413E;
+}
+
+img {
+    max-width: 130px;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    padding: 50px;
+}
+
+#resultado {
+    margin-bottom: 60px;
+    height: 450px;
+    /* Ajuste a altura conforme necessário */
+}
+
+textarea {
+    resize: none;
+    padding: 8px;
+    background-color: #1d1e23;
+    color: white;
+    outline: none;
+    font-size: 24px;
+    text-align: justify;
+    cursor: pointer;
+    border-radius: 1.5vh;
+    border: 1px solid white;
+}
+
+#resultado {
+    margin-bottom: 60px;
+}
+
+#inputQuestion:hover {
+    opacity: 0.8;
+}
+
+textarea:focus {
+    border: 1px solid #265F95;
+}
+
+.container-button {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+/* Estilizando a barra de rolagem */
+::-webkit-scrollbar {
+    width: 0px;
+    /* Largura da barra de rolagem */
+}
+
+::-webkit-scrollbar-track {
+    background-color: #112B43;
+    /* Cor de fundo da área da barra de rolagem */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #112B43;
+    width: 10px;
+    /* Cor da barra de rolagem (cinza) */
+    border-radius: 4px;
+    /* Cantos arredondados da barra de rolagem */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #112B43;
+    /* Cor da barra de rolagem ao passar o mouse */
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    background: white;
+    border-radius: 25px;
+    height: 48px;
+    width: 20vh;
+    text-align: center;
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+    line-height: 18px;
+    border: none;
+    margin-bottom: 25px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+button:active {
+    opacity: 0.6;
+}
+
+.nobre-ia {
+    color: #265F95;
+    /* Ou qualquer outra cor azul desejada */
+}
