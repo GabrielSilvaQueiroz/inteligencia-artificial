@@ -13,6 +13,9 @@ https://github.com/GabrielSilvaQueiroz/inteligencia-artificial/assets/107042479/
 
 
 O código JS está documentado para garantir clareza e facilidade de manutenção.
+<br>
+
+Este projeto hospedado aqui, é um projeto genérico da aplicação real, sem qualquer ligação com a instituição supracitada.
 
 <br>
 
