@@ -5,7 +5,11 @@
 Bem-vindo ao meu projeto de Inteligência Artificial (baseado no CHAT GPT)! Este projeto é o resultado de uma demanda do meu trabalho atual como desenvolvedor júnior no Grupo Nobre, para desenvolver um protótipo de inteligência artificial. Dessa forma, cogitei a hipótese de criar uma "réplica" do ChatGPT utilizando a API gratuita GPT-3.5 da OpenAI. Me aprofundei na documentação para entender como implementar o código, que é totalmente escrito em JavaScript. 
 <br> <br>
 
-https://github.com/GabrielSilvaQueiroz/inteligencia-artificial/assets/107042479/d1f36d20-24ca-4611-903c-c16a28b6c9ce
+
+
+https://github.com/GabrielSilvaQueiroz/inteligencia-artificial/assets/107042479/d57cf4cb-52cb-49a3-8e75-3e80005bbf77
+
+
 
 
 O código JS está documentado para garantir clareza e facilidade de manutenção.
